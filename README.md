@@ -71,6 +71,6 @@ Here you'll find some of the most relevant academic projects I've worked on thro
 If you'd like to connect, collaborate, or just say hello, feel free to reach out through any of the following platforms:
 
 - 📧 **Email:** yosward.gar@gmail.com  
-- 💼 **LinkedIn:** [Linked In profile](www.linkedin.com/in/yoswardgarcíatellez)  
+- 💼 **LinkedIn:** [Linked In profile](www.linkedin.com/in/yoswardgarciatellez)  
 
 I'm always open to new opportunities, collaborative projects, or just geeking out about code.
