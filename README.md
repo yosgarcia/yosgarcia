@@ -6,7 +6,7 @@ Here you'll find some of the most relevant academic projects I've worked on thro
 
 ---
 
-## 🎓 featured Projects
+## 🎓 Featured Projects
 
 ### 💻 Development Projects
 
