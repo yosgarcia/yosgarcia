@@ -43,10 +43,10 @@ Here you'll find some of the most relevant academic projects I've worked on thro
 ### 🧪 Quality Assurance Projects
 
 - [**PHPTravels Website Automated Tests**](https://github.com/yosgarcia/PHPTravels-AutomatedTests)  
-  Functional and automated tests using **Selenium WebDriver** for [PHPTravels Demo](https://phptravels.com/demo/).
+  Functional and automated tests using **Selenium WebDriver** for [PHPTravels Demo](https://phptravels.com/demo/) using Java.
 
 - [**QA Testing Project**](https://github.com/ycambro/BookShoppingCart-Mvc)  
-  QA project for a book shopping system. Included test plan creation, **unit testing with XUnit**, **automated testing with Selenium**, and error reporting.
+  QA project for a book shopping system. Included test plan creation, **unit testing with XUnit**, **automated testing with Selenium**, and error reporting. The automated tests were implemented in C#.
 
 
 
