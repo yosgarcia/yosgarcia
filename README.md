@@ -71,6 +71,8 @@ Here you'll find some of the most relevant academic projects I've worked on thro
 - [**Network Traffic Analysis with Wireshark**](https://github.com/yosgarcia/Wireshark-lab)  
   Laboratory focused on the analysis of network traffic using Wireshark to identify, inspect, and understand the behavior of different network protocols such as HTTP, SMTP, DNS and more.
 
+- [**Email server and email client in Python**](https://github.com/yosgarcia/Mail-Server)  
+  Python-based mail server and client supporting SMTP and IMAP protocols with support for MIME attachments.
 
 ---
 
