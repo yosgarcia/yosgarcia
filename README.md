@@ -67,8 +67,10 @@ Here you'll find some of the most relevant academic projects I've worked on thro
 ---
 
 ### 🌐 Networking
-- [**Network Traffic Analysis with Wireshark**](https://github.com/yosgarcia/Wireshark-lab)
+
+- [**Network Traffic Analysis with Wireshark**](https://github.com/yosgarcia/Wireshark-lab)  
   Laboratory focused on the analysis of network traffic using Wireshark to identify, inspect, and understand the behavior of different network protocols such as HTTP, SMTP, DNS and more.
+
 
 ---
 
