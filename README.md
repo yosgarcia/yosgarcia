@@ -74,6 +74,9 @@ Here you'll find some of the most relevant academic projects I've worked on thro
 - [**Email server and email client in Python**](https://github.com/yosgarcia/Mail-Server)  
   Python-based mail server and client supporting SMTP and IMAP protocols with support for MIME attachments.
 
+- [**WaveNET – Audio-Based Anonymous Mesh Network**](https://github.com/yosgarcia/WaveNet)  
+  WaveNET is a decentralized mesh network that transmits data via sound, supports anonymous file sharing, and integrates with IRC for clearnet access.
+  
 ---
 
 ## 📫 Contact Me
