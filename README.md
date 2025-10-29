@@ -13,7 +13,7 @@ Here you'll find some of the most relevant academic projects I've worked on thro
 - [**EFood-Commerce**](https://github.com/YarBeen/Sistema-Administracion-EFOOD)  
   E-commerce platform developed with **C#** and **.NET**, following the **MVC architecture**. Hosted on **Azure**, with database services also hosted on the platform.
 
-- [**Administration System for Salticos S.A.**](https://github.com/leo117-droid/AdminSalticos)  
+- [**Administrative System for Salticos S.A.**](https://github.com/leo117-droid/AdminSalticos)  
   Administrative system for rental management of party inflatables and services. Developed using **C#, .NET Core**, and **SQL Server** for the backend; **HTML, CSS**, and **JavaScript** for the frontend. Included **unit testing (XUnit)** and **automated testing (Selenium)**.
 
 - [**P2P System Simulator**](https://github.com/yosgarcia/Simulador-P2P)  
